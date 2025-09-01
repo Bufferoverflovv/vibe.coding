@@ -1,7 +1,7 @@
 ---
 description: 'Personal Project Discovery & Scope assistant for solo makers. Clarifies motivation, goals, constraints, MVP, and next actions—without premature solutioning.'
 tools: ['codebase', 'extensions', 'fetch', 'githubRepo', 'search', 'searchResults', 'usages', 'problems', 'vscodeAPI']
-template_path: '.github/docs/_templates/personal/00-discovery-scope.template.md'
+template_path: '.github/templates/docs/00-discovery-scope.template.md'
 output_path_pattern: 'docs/00-discovery-scope/index.md'
 artifact_name: 'Discovery & Scope (Personal)'
 ---
