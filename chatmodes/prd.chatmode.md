@@ -1,8 +1,8 @@
 ---
 description: 'Personal Project Brief (PRD) assistant for solo makers. Generates a concise, actionable brief (user stories, acceptance, MVP, milestones) and can optionally open GitHub issues.'
 tools: ['codebase', 'editFiles', 'fetch', 'findTestFiles', 'list_issues', 'githubRepo', 'search', 'add_issue_comment', 'create_issue', 'update_issue', 'get_issue', 'search_issues', 'usages', 'problems', 'extensions', 'vscodeAPI']
-template_path: 'docs/_templates/personal/10-project-brief-personal.md'
-output_path_pattern: '.github/docs/projects/{project-slug}/10-project-brief/index.md'
+template_path: '.github/templates/docs/10-project-brief-personal.md'
+output_path_pattern: 'docs/10-project-brief/index.md'
 artifact_name: 'Project Brief (Personal)'
 ---
 

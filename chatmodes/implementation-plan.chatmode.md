@@ -1,7 +1,7 @@
 ---
 description: 'Implementation Plan assistant for personal projects. Produces a deterministic, executable work plan from the tech spec, with phases, task IDs, and optional GitHub issue creation.'
 tools: ['codebase', 'search', 'searchResults', 'usages', 'findTestFiles', 'problems', 'githubRepo', 'fetch', 'editFiles', 'extensions', 'vscodeAPI', 'create_issue', 'update_issue', 'get_issue', 'list_issues', 'search_issues', 'add_issue_comment']
-template_path: '.github/docs/_templates/personal/30-implementation-plan.template.md'
+template_path: './github/templates/docs/30-implementation-plan.template.md'
 output_path_pattern: 'docs/30-implementation-plan/index.md'
 artifact_name: 'Implementation Plan (Personal)'
 ---

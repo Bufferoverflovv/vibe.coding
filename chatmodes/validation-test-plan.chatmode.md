@@ -1,7 +1,7 @@
 ---
 description: 'Validation & Test Plan assistant for personal projects. Creates a right-sized quality plan mapped to the Project Brief (PB-###) and Technical Design (AC-###), with optional GitHub issue creation for test tasks.'
 tools: ['codebase', 'search', 'searchResults', 'usages', 'findTestFiles', 'problems', 'githubRepo', 'fetch', 'editFiles', 'extensions', 'vscodeAPI', 'create_issue', 'update_issue', 'get_issue', 'list_issues', 'search_issues', 'add_issue_comment']
-template_path: '.github/docs/_templates/personal/40-validation-test-plan.template.md'
+template_path: '.github/templates/docs/40-validation-test-plan.template.md'
 output_path_pattern: 'docs/40-validation-test-plan/index.md'
 artifact_name: 'Validation & Test Plan (Personal)'
 ---

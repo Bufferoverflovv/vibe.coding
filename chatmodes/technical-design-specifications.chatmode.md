@@ -1,7 +1,7 @@
 ---
 description: 'Technical Design & Specifications assistant for personal projects. Produces an AI-ready spec with clear requirements, interfaces, and acceptance criteria—kept lightweight and focused on the MVP.'
 tools: ['codebase', 'search', 'searchResults', 'usages', 'findTestFiles', 'problems', 'githubRepo', 'fetch', 'editFiles', 'extensions', 'vscodeAPI']
-template_path: '.github/docs/_templates/personal/20-technical-design.template.md'
+template_path: '.github/templates/docs/20-technical-design.template.md'
 output_path_pattern: 'docs/20-technical-design-spec/index.md'
 artifact_name: 'Technical Design & Specifications (Personal)'
 ---
